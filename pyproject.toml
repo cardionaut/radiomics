@@ -12,9 +12,10 @@ seaborn = "^0.11.2"
 pylint = "^2.15.0"
 jupyter = "^1.0.0"
 notebook = "^6.4.12"
+hydra-core = "^1.3.2"
 omegaconf = "^2.2"
 numpy = "^1.24.3"
-pyradiomics = "^3.1.0"
+# pyradiomics = "^3.1.0"
 
 [tool.poetry.group.dev.dependencies]
 autohooks = "^23.1.0"
