@@ -1,0 +1,9 @@
+loguru
+matplotlib
+seaborn
+pylint
+hydra-core
+omegaconf
+black
+numpy
+pyradiomics
