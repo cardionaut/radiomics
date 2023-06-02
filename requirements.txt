@@ -7,3 +7,5 @@ omegaconf
 black
 numpy
 pyradiomics
+monai
+pytorch-lightning
